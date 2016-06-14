@@ -11,6 +11,13 @@
   本系统基于nodejs环境开发，在部署有nodejs的环境
   下，执行 node index.js运行。
 ##3.使用帮助
-  关注如下公众号，输入“历史上的今天”。	
+  关注如下公众号，输入“历史上的今天”。
+  
+  ![image](https://raw.githubusercontent.com/cstarnight/pic/master/p1.png)
+  
+  
+  
+  ![image](https://raw.githubusercontent.com/cstarnight/pic/master/p2.png)
+  
 ##4.开发人员信息
   组长：汪子淳 1601220124 组员：吴青峰 1301221280
